@@ -1,3 +1,3 @@
 # new website 
  discord 
-E:\New folder\style1.css
+# my best project GODCRAFTS website
