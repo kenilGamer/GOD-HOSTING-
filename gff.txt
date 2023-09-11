@@ -1,0 +1,7 @@
+aaPanel Internet Address: https://2a0e:97c0:3e3:179::1:7800/e0d2cc6c
+aaPanel Internal Address: https://45.131.64.54:7800/e0d2cc6c
+username: u1yzf3ws
+password: ed10e7e4
+Warning:
+If you cannot access the panel, 
+release the following port (7800|888|80|443|20|21) in the security group
